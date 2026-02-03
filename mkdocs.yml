@@ -13,3 +13,14 @@ theme:
 extra:
   support_link: https://your-payment-link-here
 
+nav:
+  - Home: index.md
+
+  - Agile:
+      - Agile projects: Agile_projects.md
+      - General Agile Principles: general_agile_principles.md
+      - Hybrid project management: hybrid_project_management.md
+
+  - Mindsets:
+      - AR Mindsets: mindsets_-_by_AR.md
+      - MR Mindsets: mindsets_-_by_MR.md
