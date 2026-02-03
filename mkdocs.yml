@@ -59,3 +59,7 @@ nav:
       - AR Mindsets: mindsets_-_by_AR.md
       - MR Mindsets: mindsets_-_by_MR.md
       - PMP Fast track: PMP_Fast-track_-_by_DM.md
+
+extra_css:
+  - assets/stylesheets/extra.css
+
