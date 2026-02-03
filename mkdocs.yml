@@ -11,16 +11,49 @@ theme:
       accent: blue
 
 extra:
-  support_link: https://your-payment-link-here
+  support_link: https://buymeacoffee.com/lordfoulmouth
 
 nav:
   - Home: index.md
 
-  - Agile:
+  - PMBOK:
+      - PMBOK: PMBOK_7th_Edition.md
+
+  - Types of Organisations:
+      - Types of organisations: Organisation_types.md
+
+  - Types of Projects:
+      - Predictive projects: Predictive_Projects.md
       - Agile projects: Agile_projects.md
-      - General Agile Principles: general_agile_principles.md
       - Hybrid project management: hybrid_project_management.md
+
+  - General Predictive Learning Principles:
+      - Predictive Processes: Predictive_Processes.md
+      - Project Documents: Predictive_Project_Documents.md
+      - Project Management Plan: Project_Management_Plan.md
+      - Project Plans: Project_Plans.md
+      - Procurement: Procurement.md
+      - Closing: CLosing.md
+      - Earned Value Management[EVM]: Earned_value_management.md
+      - Project Status based on EVM: Proejct_status.md
+      - Risk Response: Risk_Response_Strategies.md
+
+  - General Agile Learning Principles:
+      - General Agile Principles:: General_Agile_Principles.md
+
+  - General Principles:
+      - Stakeholder Management: Stakeholder_Management.md
+      - Prioritisation principles: Project_prioritisation.md            
+      - Project Scheduling: Project_Scheduling.md
+      - Project Management Lifecycle: Project_management_lifecycle.md
+      - Conflict Management: Conflict Management.md
+      - Types of leaders: Types_of_leaders.md
+
+  - Test based learning principles:
+      - Mock test feedback: Mock_Test_Feedback.md
+      - Practice Exam Feedback: General_Learning_Principles_based_on_question_solving.md
 
   - Mindsets:
       - AR Mindsets: mindsets_-_by_AR.md
       - MR Mindsets: mindsets_-_by_MR.md
+      - PMP Fast track: PMP_Fast-track_-_by_DM.md
