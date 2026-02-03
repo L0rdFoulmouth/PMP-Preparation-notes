@@ -2,6 +2,8 @@ site_name: PMP Study Notes
 
 theme:
   name: material
+  custom_dir: docs/overrides
+
   palette:
     - scheme: default
       primary: indigo
